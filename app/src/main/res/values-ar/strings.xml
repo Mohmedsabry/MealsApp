@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MealsApp</string>
+    <string name="whatYouLikeToEat">الطعام المقترح</string>
+    <string name="category">الاصناف</string>
+    <string name="home">الرئسيه</string>
+    <string name="fav">المفضله</string>
+    <string name="ConnectionFaild">الاتصال بالانترنت ضعيف</string>
+    <string name="area">المكان</string>
+    <string name="instruction">الطريقه</string>
+    <string name="typeMeal">اكتب اسم الوجبه</string>
+</resources>

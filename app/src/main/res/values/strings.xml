@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MealsApp</string>
+    <string name="whatYouLikeToEat">
+        What would you like to eat
+    </string>
+    <string name="category">
+        categories
+    </string>
+    <string name="home">
+        Home
+    </string>
+    <string name="fav">
+        favourite
+    </string>
+    <string name="ConnectionFaild">check internet connection</string>
+    <string name="area">area</string>
+    <string name="instruction">instruction</string>
+    <string name="typeMeal">type meal name...</string>
+</resources>
